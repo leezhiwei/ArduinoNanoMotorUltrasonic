@@ -1,11 +1,11 @@
-# ArduinoNanoMotorUltrasonic
-This is a simple project to test the capability of the transistor and ultrasonic sensor
+# Arduino Nano Ultrasonic Motor
+This is a simple project to test the capability of the transistor and ultrasonic sensor.
 
 # Requirements
-Arduino Nano
-Small Motor
-HC-SR04 Ultrasonic Sensor
-2n3904 Transistor 
+1. Arduino Nano
+2. Small Motor
+3. HC-SR04 Ultrasonic Sensor
+4. 2n3904 Transistor 
 
 # Instructions
 1. Load the .ino file into Arduino IDE and upload it to your nano.
